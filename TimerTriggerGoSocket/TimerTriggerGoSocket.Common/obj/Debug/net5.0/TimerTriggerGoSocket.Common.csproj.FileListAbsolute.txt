@@ -1,0 +1,12 @@
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\bin\Debug\net5.0\TimerTriggerGoSocket.Common.deps.json
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\bin\Debug\net5.0\TimerTriggerGoSocket.Common.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\bin\Debug\net5.0\ref\TimerTriggerGoSocket.Common.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\bin\Debug\net5.0\TimerTriggerGoSocket.Common.pdb
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.csproj.AssemblyReference.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.AssemblyInfoInputs.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.AssemblyInfo.cs
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.csproj.CoreCompileInputs.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\ref\TimerTriggerGoSocket.Common.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTriggerGoSocket.Common\obj\Debug\net5.0\TimerTriggerGoSocket.Common.pdb

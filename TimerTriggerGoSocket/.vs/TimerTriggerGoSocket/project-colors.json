@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "254e31e5-376d-4079-aef4-b0f9634ec6f4": {
+      "ProjectGuid": "254e31e5-376d-4079-aef4-b0f9634ec6f4",
+      "DisplayName": "TimerTriggerGoSocket",
+      "ColorIndex": 0
+    },
+    "7522d1af-7de5-4d52-b7d4-b52d85d76936": {
+      "ProjectGuid": "7522d1af-7de5-4d52-b7d4-b52d85d76936",
+      "DisplayName": "TimerTtriggerGoSocket.Service",
+      "ColorIndex": 1
+    },
+    "55ed9cbd-c57a-43db-873d-512715dfc132": {
+      "ProjectGuid": "55ed9cbd-c57a-43db-873d-512715dfc132",
+      "DisplayName": "TimerTriggerGoSocket.Common",
+      "ColorIndex": 2
+    },
+    "d1d41e94-250b-406f-bf62-bb1dab6d2756": {
+      "ProjectGuid": "d1d41e94-250b-406f-bf62-bb1dab6d2756",
+      "DisplayName": "TimerTtriggerGoSocket.DataAccess",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

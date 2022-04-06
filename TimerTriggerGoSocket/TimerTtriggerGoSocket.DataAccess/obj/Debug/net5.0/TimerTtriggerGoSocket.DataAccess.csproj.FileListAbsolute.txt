@@ -1,0 +1,35 @@
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.deps.json
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.runtimeconfig.json
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.runtimeconfig.dev.json
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\ref\TimerTtriggerGoSocket.DataAccess.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.pdb
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTriggerGoSocket.Common.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTriggerGoSocket.Common.pdb
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.csproj.AssemblyReference.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.AssemblyInfoInputs.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.AssemblyInfo.cs
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.csproj.CopyComplete
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\ref\TimerTtriggerGoSocket.DataAccess.dll
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.pdb
+C:\Repositorios\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.genruntimeconfig.cache
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.deps.json
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.runtimeconfig.json
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.runtimeconfig.dev.json
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.dll
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\ref\TimerTtriggerGoSocket.DataAccess.dll
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.pdb
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTriggerGoSocket.Common.dll
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\bin\Debug\net5.0\TimerTriggerGoSocket.Common.pdb
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.AssemblyInfo.cs
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.csproj.CopyComplete
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.dll
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\ref\TimerTtriggerGoSocket.DataAccess.dll
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.pdb
+C:\Users\Felipe vega\OneDrive - Evolution Technologies Group\Escritorio\GoSocket\TimerTriggerGoSocket\TimerTtriggerGoSocket.DataAccess\obj\Debug\net5.0\TimerTtriggerGoSocket.DataAccess.genruntimeconfig.cache
